@@ -8,9 +8,18 @@ A program that writes one short text to `/output/entry.txt` for make.fun's "Make
 
 ## The text
 
-> you are reading this on a rock that has circled the same star four billion times without hurrying once
+> Low tide leaves a pool
+> in the hollow of a rock.
+> A crab crosses it,
+> one slow leg at a time.
+> The pool holds one star.
+> The sea will come back for it
+> in its own time.
+> The sea has filled this pool
+> a thousand tides before you,
+> and will fill it a thousand more.
 
-102 characters. Written for the judge's brief: it relaxes, shows rather than instructs, and leaves an image that keeps growing after the last line.
+254 characters. Written for the judge's brief: a small, concrete, calming scene that slows the reading line by line, then opens onto a thousand tides past and future — an image that keeps growing after the last line.
 
 ## Run it
 
