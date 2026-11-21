@@ -5,8 +5,16 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const TEXT =
-  "you are reading this on a rock that has circled the same star four billion times without hurrying once";
+const TEXT = `Low tide leaves a pool
+in the hollow of a rock.
+A crab crosses it,
+one slow leg at a time.
+The pool holds one star.
+The sea will come back for it
+in its own time.
+The sea has filled this pool
+a thousand tides before you,
+and will fill it a thousand more.`;
 
 // Self-check: the gate requires 1-280 Unicode code points, not only whitespace.
 const chars = [...TEXT].length;
